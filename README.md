@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 I am Wilson Mwangi Morogo. I am a data analyst with 2 years of experience in data analysis where I combine my 7+ years knowledge of analytics and problem-solving to formulate data-driven business solutions to evolving challenges. I have a vast knowledge of statistical concepts and techniques and experience with data cleaning, manipulation,management and visualization.
 
 
